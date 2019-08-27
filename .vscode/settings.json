@@ -1,0 +1,33 @@
+{
+	"[powershell]": {
+		"editor.defaultFormatter": "ms-vscode.powershell"
+	},
+	"editor.insertSpaces": true,
+	"editor.renderWhitespace": "boundary",
+	"editor.trimAutoWhitespace": true,
+	"files.associations": {
+		"*.ps1xml": "xml",
+		"*.psd1": "powershell",
+		"*.todo": "markdown"
+	},
+	"files.insertFinalNewline": true,
+	"files.trimTrailingWhitespace": true,
+	"powershell.codeFormatting.WhitespaceAroundPipe": true,
+	"powershell.codeFormatting.WhitespaceInsideBrace": true,
+	"powershell.codeFormatting.alignPropertyValuePairs": false,
+	"powershell.codeFormatting.ignoreOneLineBlock": false,
+	"powershell.codeFormatting.newLineAfterCloseBrace": true,
+	"powershell.codeFormatting.newLineAfterOpenBrace": false,
+	"powershell.codeFormatting.openBraceOnSameLine": false,
+	"powershell.codeFormatting.preset": "Custom",
+	"powershell.codeFormatting.useCorrectCasing": true,
+	"powershell.codeFormatting.whitespaceAfterSeparator": true,
+	"powershell.codeFormatting.whitespaceAroundOperator": true,
+	"powershell.codeFormatting.whitespaceBeforeOpenBrace": true,
+	"powershell.codeFormatting.whitespaceBeforeOpenParen": true,
+	"powershell.integratedConsole.focusConsoleOnExecute": false,
+	"powershell.scriptAnalysis.enable": true,
+	"powershell.scriptAnalysis.settingsPath": ".vscode\\linters\\PSScriptAnalyzerSettings.psd1",
+	"powershell.startAutomatically": true,
+	"diffEditor.ignoreTrimWhitespace": true
+}
